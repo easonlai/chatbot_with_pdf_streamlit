@@ -19,4 +19,7 @@ To run this Streamlit web app
 streamlit run app_pinecone.py
 ```
 
+**High-level architecture and flow of this Semantic Search over Documents demo**
+![alt text](https://github.com/easonlai/chatbot_with_pdf_streamlit/blob/main/git-images/git-image-1.png)
+
 Enjoy!
