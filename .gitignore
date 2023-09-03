@@ -1,0 +1,12 @@
+.DS_Store
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+app_acs_private.py
+app_chroma_private.py
+app_pinecone_private.py
+consume_acs_private.ipynb
+consume_chroma_private.ipynb
+consume_pinecone_private.ipynb
+preprocess_acs_private.ipynb
+preprocess_chroma_private.ipynb
+preprocess_pinecone_private.ipynb
